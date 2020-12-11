@@ -10,3 +10,8 @@
   outline: none;
   border-radius: var(--button-border-radius);
 }
+.button--add-rounded{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px
+}

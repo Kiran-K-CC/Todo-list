@@ -1,12 +1,11 @@
 import React from "react";
 import "./style.css";
 import Login from "./component/login";
-import Todo from "./components/todo";
+import Todo from "./component/todo";
 
 export default function App() {
   return (
-    <div className="todo-container">
-      // <Login />
+    <div className="container">
       <Todo />
     </div>
   );

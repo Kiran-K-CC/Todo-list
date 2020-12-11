@@ -6,12 +6,13 @@
 
 :root{
   --button-background: rgb(52, 171, 240);
+  --header-background: rgb(52, 171, 240);
   --button-border-radius: 5px;
   --button-width: 150px;
   --button-height: 30px;
 }
 
-.todo-container{
+.container{
   width: 100vw;
   height: 100vh;
   display: flex;
